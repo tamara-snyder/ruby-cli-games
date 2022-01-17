@@ -1,0 +1,9 @@
+[submodule "mastermind"]
+	path = mastermind
+	url = https://github.com/tamara-snyder/Mastermind
+[submodule "hangman"]
+	path = hangman
+	url = https://github.com/tamara-snyder/hangman
+[submodule "tic_tac_toe"]
+	path = tic_tac_toe
+	url = https://github.com/tamara-snyder/Tic-Tac-Toe-Ruby
